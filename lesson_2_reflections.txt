@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+First go into the folder which you want to make a repo
+then git init to initialize
+A message pops up saying - initialised empty git repo in ( 'location' )
+We have to do it so that a hidden folder .git is created to track the files which we add 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is an intermediate place between wd and repo. When we add a file, the file is placed in staging area. After making all changes and commit to track changes to repo  
