@@ -8,3 +8,9 @@ We have to do it so that a hidden folder .git is created to track the files whic
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is an intermediate place between wd and repo. When we add a file, the file is placed in staging area. After making all changes and commit to track changes to repo  
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+First make changes and use git diff to see difference between staging area and working dierctory files.
+git diff --staged to find difference between staging area and repository. 
+After making changes, commit the file. 
