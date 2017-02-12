@@ -5,3 +5,10 @@ When working from another computer or when some other member is adding.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 We can choose which files/branches to update by ourselves. 
+
+Describe the differences between forks, clones and branches. When would you use one instead of another? 
+
+Fork - Copy another person's github repo to ours to make changes. - works between 2 github repos
+
+Clone - to copy one repo to another -Between 2 local systems or from github to local sys.Branches - 
+Same repo, but another version of same code, experiments , versions, etc. 
