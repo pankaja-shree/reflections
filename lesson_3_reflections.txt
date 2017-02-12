@@ -12,3 +12,7 @@ Fork - Copy another person's github repo to ours to make changes. - works betwee
 
 Clone - to copy one repo to another -Between 2 local systems or from github to local sys.Branches - 
 Same repo, but another version of same code, experiments , versions, etc. 
+
+what is the benefit of having a copy of the last known state of the remote stored locally?
+
+So that the sys knows if any commits are different in github and local system. 
